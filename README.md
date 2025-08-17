@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![GitHub license](https://img.shields.io/github/license/dineshit27/SignSense?style=flat-square&color=blue)   ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)  ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20AI-yellow?style=flat-square)  ![Status](https://img.shields.io/badge/Status-Prototype-success?style=flat-square)  
+![GitHub license](https://img.shields.io/github/license/dineshit27/SignSense?style=flat-square&color=blue)   ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)  ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20IoT-yellow?style=flat-square)  ![Status](https://img.shields.io/badge/Status-Prototype-success?style=flat-square)  
 
 </div>
 
@@ -61,8 +61,14 @@
 
 <p align="center">
   <!-- Replace these image paths with your actual project screenshots -->
-  <img src="Images/ss1.png" alt="Home Page" width="45%"/>
-  <img src="Images/ss2.png" alt="Sign Detection" width="45%"/>
+  <img src="images/Website frontend.png" alt="Home Page" width="45%"/>
+  <img src="images/aquawatt gpt prototype.png" alt="Prototype Model" width="45%"/>
+</p>
+
+<p align="center">
+  <!-- Replace these image paths with your actual project screenshots -->
+  <img src="images/circuit and flow diagram.png" alt="Block & Wiring Diagram" width="45%"/>
+  <img src="images/water prototype.jpeg" alt="Water" width="45%"/>
 </p>
 
 ---
