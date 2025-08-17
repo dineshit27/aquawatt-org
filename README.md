@@ -8,33 +8,27 @@
 
 ---
 
-## 🌟 Features
+## 🚀 Introduction  
+**Aquawatt** is an **IoT-powered water and electricity monitoring system** designed to help households track and manage **per-room resource consumption**. It tackles challenges like **rising utility bills**, **resource wastage**, and **lack of awareness** about daily usage patterns in different areas of the home (kitchen, bedroom, etc.).  
 
-### 📊 Real-time Monitoring
-- Live consumption tracking per room
-- Instant anomaly detection
-- Device status indicators
+Using **low-cost IoT sensors** (water flow meters & smart energy monitors), Aquawatt captures real-time data and transmits it via **Wi-Fi** to a **centralized backend platform**. The data is then processed, stored, and displayed through a **full-stack web dashboard**, where users can explore **real-time and historical usage insights** with interactive charts and summaries.  
 
----
-
-### 📈 Data Visualization
-- Interactive Recharts dashboards
-- Usage comparison tools
-- Exportable reports
+Aquawatt empowers users with **actionable insights**, enabling them to **detect anomalies**, **optimize daily routines**, and ultimately **reduce utility bills**—inspired by smart home solutions proven to cut electricity usage by up to **15%**.  
 
 ---
 
-### 🔐 User Management
-- Admin/User role system
-- Usage history tracking
-- Profile customization
+## ✨ Features  
 
----
-
-### ⚡ IoT Integration
-- MQTT protocol support
-- Multi-device compatibility
-- Secure sensor authentication
+| Feature | Description |
+|---------|-------------|
+| 🚰 **Water Usage Monitoring** | Tracks real-time water consumption in each room using flow sensors. |
+| ⚡ **Electricity Usage Monitoring** | Measures energy usage with CT sensors for per-room insights. |
+| 📡 **IoT Connectivity** | ESP32/NodeMCU sends data securely via Wi-Fi using MQTT/HTTP. |
+| ☁️ **Cloud Storage & Processing** | Stores usage data in a time-series database for analysis. |
+| 📊 **Analytics & Visualization** | Provides detailed charts, comparisons, and anomaly detection. |
+| 🔔 **Smart Alerts** | Sends notifications for overuse, leaks, or abnormal power consumption. |
+| 🌍 **Scalability** | Supports multi-room, multi-building, and future smart home integration. |
+| 💻 **User Dashboard** | Web-based interface (React + Tailwind) for real-time monitoring. |
 
 ---
 
@@ -54,6 +48,28 @@
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-00A67E?logo=openai&logoColor=white)
+
+**Hardware Components**  
+![ESP32](https://img.shields.io/badge/-ESP32-black?logo=espressif&logoColor=white)  ![NodeMCU](https://img.shields.io/badge/-NodeMCU-blue?logo=arduino&logoColor=white)  ![YF-S201](https://img.shields.io/badge/-YF--S201-0a9396)  ![ACS712](https://img.shields.io/badge/-ACS712-ff9f1c)  ![ZMPT101B](https://img.shields.io/badge/-ZMPT101B-9b5de5)  ![Relay Module](https://img.shields.io/badge/-Relay_Module-e63946)  
+
+
+---
+
+## 🔧 Aquawatt — Block Diagram
+
+```mermaid
+graph TD
+    A[Water Flow Sensor 🚰] --> C[ESP32 / NodeMCU]
+    B[Energy Meter ⚡] --> C[ESP32 / NodeMCU]
+    C --> D[Wi-Fi Router 🌐]
+    D --> E[Cloud Backend / API ☁️]
+    E --> F[Database 🗄️]
+    E --> G[Analytics Engine 📊]
+    G --> H[Notification Service 🔔]
+    E --> I[Web Dashboard 💻]
+    I --> J[Users 👨‍👩‍👦]
+    H --> J
+```
 
 ---
 
