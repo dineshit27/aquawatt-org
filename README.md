@@ -1,13 +1,12 @@
-# Aquawatt - Water & Electricity Usage Tracker (on process) 
+# Aquawatt - Water & Electricity Usage Tracker
 
 <div align="center">
   
-[![React](https://img.shields.io/badge/React-18.2-blue?logo=react)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-4.0-orange?logo=vite)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
+![GitHub license](https://img.shields.io/github/license/dineshit27/SignSense?style=flat-square&color=blue)   ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)  ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20AI-yellow?style=flat-square)  ![Status](https://img.shields.io/badge/Status-Prototype-success?style=flat-square)  
 
 </div>
+
+---
 
 ## 🌟 Features
 
@@ -16,20 +15,28 @@
 - Instant anomaly detection
 - Device status indicators
 
+---
+
 ### 📈 Data Visualization
 - Interactive Recharts dashboards
 - Usage comparison tools
 - Exportable reports
+
+---
 
 ### 🔐 User Management
 - Admin/User role system
 - Usage history tracking
 - Profile customization
 
+---
+
 ### ⚡ IoT Integration
 - MQTT protocol support
 - Multi-device compatibility
 - Secure sensor authentication
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -47,6 +54,18 @@
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-00A67E?logo=openai&logoColor=white)
+
+---
+
+## 📸 Screenshots  
+
+<p align="center">
+  <!-- Replace these image paths with your actual project screenshots -->
+  <img src="Images/ss1.png" alt="Home Page" width="45%"/>
+  <img src="Images/ss2.png" alt="Sign Detection" width="45%"/>
+</p>
+
+---
 
 # File Tree: Aquawatt : A water and electricity tracking application
 
