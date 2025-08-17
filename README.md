@@ -89,6 +89,22 @@ graph TD
 
 ---
 
+## 📂 Resources  
+
+<p align="center">
+  <!-- Project PPT -->
+  <a href="Abstract/AQUAWATT_PROJECT.pdf" target="blank">
+    <img src="https://img.shields.io/badge/📑%20Project%20Abstract-Download-blue?style=for-the-badge"/>
+  </a>
+
+  <!-- Project Video -->
+  <a href="Prototype video/Aquawatt video (1).mp4" target="blank">
+    <img src="https://img.shields.io/badge/🎬%20Project%20Video-Watch-red?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
 # File Tree: Aquawatt : A water and electricity tracking application
 
 ```
