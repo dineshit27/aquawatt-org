@@ -259,4 +259,4 @@ Thanks for stopping by! 👋
 
 ---
 
-### 🔥 Made with ❤️ by **Dinesh**
+### 🔥 Made with ❤️ by **Dinesh M**
