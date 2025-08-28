@@ -92,9 +92,14 @@ graph TD
 ## 📂 Resources  
 
 <p align="center">
-  <!-- Project PPT -->
+  <!-- Project Abstract -->
   <a href="Documents/AQUAWATT_PROJECT.pdf" target="blank">
     <img src="https://img.shields.io/badge/📑%20Project%20Abstract-Download-blue?style=for-the-badge"/>
+  </a>
+
+  <!-- Project PPT -->
+  <a href="Documents/Solvathon 4.0 PPT.pdf" target="blank">
+    <img src="https://img.shields.io/badge/📑%20Project%20PPT-Download-green?style=for-the-badge"/>
   </a>
 
   <!-- Project Video -->
