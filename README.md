@@ -93,7 +93,7 @@ graph TD
 
 <p align="center">
   <!-- Project PPT -->
-  <a href="Abstract/AQUAWATT_PROJECT.pdf" target="blank">
+  <a href="Documents/AQUAWATT_PROJECT.pdf" target="blank">
     <img src="https://img.shields.io/badge/📑%20Project%20Abstract-Download-blue?style=for-the-badge"/>
   </a>
 
