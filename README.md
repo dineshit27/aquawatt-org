@@ -1,8 +1,14 @@
-# Aquawatt - Water & Electricity Usage Tracker
 
 <div align="center">
-  
-![GitHub license](https://img.shields.io/github/license/dineshit27/aquawatt-org?style=flat-square&color=blue)   ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=flat-square)  ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20IoT-yellow?style=flat-square)  ![Status](https://img.shields.io/badge/Status-Prototype-success?style=flat-square)  
+<h2>🚀 Aquawatt - Water & Electricity Usage Tracker App</h2>
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=flat&logo=vercel&logoColor=white)](https://aquawatt-hub.web.app/)
+[![Version](https://img.shields.io/badge/Version-v2.0.0-7C3AED?style=flat&logo=semanticrelease&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Status-Live-10B981?style=flat&logo=statuspage&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-2563EB?style=flat&logo=opensourceinitiative&logoColor=white)](#)
+[![React](https://img.shields.io/badge/Built%20With-React-cyan?style=flat&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Supabase](https://img.shields.io/badge/Backend%20By-Supabase-green?style=flat&logo=supabase&logoColor=3ECF8E)](https://supabase.com)
+[![Powered By](https://img.shields.io/badge/Powered%20By-MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)](https://mqtt.org)
 
 </div>
 
