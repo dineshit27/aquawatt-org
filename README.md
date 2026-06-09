@@ -1,3 +1,4 @@
+<img src="images/untitled_image(20).png" alt="Project Banner" width="100%">
 
 <div align="center">
 <h2>🚀 Aquawatt - Water & Electricity Usage Tracker App</h2>
